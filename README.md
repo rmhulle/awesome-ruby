@@ -351,6 +351,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [moped](http://mongoid.org/en/moped/index.html) - A MongoDB driver for Ruby.
 * [mysql2](https://github.com/brianmario/mysql2) - A modern, simple and very fast Mysql library for Ruby (binding to libmysql).
 * [Neography](https://github.com/maxdemarzi/neography) - A thin Ruby wrapper to the Neo4j Rest API.
+* [NoBrainer](http://nobrainer.io/) - RethinkDB driver for ruby.
 * [Redic](https://github.com/amakawa/redic) - Lightweight Redis Client.
 * [redis-rb](https://github.com/redis/redis-rb) - A Ruby client that tries to match Redis' API one-to-one, while still providing an idiomatic interface.
 * [ruby-pg](https://bitbucket.org/ged/ruby-pg) - Ruby interface to PostgreSQL 8.3 and later.
